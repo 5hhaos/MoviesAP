@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MoviesAPP</string>
+    <string name="favourite_movies">Избранное</string>
+</resources>
